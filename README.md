@@ -24,6 +24,7 @@ ShredX is unique because it focuses on the following:
 ## Get Started :vertical_traffic_light:
 
 - Open an issue with any topic/technology from your bucket list
+  - Please follow the **issue_template**<sup>3</sup> and go through this [issue](https://github.com/shredx/plans/issues/2) before writing one
 - Alternatively you can vote for other open issues as well
 - Get together with people who share same interest
 
@@ -54,6 +55,7 @@ ShredX is unique because it focuses on the following:
 
 - <sup>1</sup> : optional
 - <sup>2</sup> : optional
+- <sup>3</sup> Thanks for [Melvin](https://github.com/melvinodsa) for the `issue_template`
 
 ---
 
