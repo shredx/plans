@@ -55,4 +55,4 @@ ShredX is unique because it focuses on the following:
 
 #### About Me
 
-So **ShredX** is started by [Ashok Dey](https://github.com/ashokdey). Read more about me here: [about](http://blog.ashokdey.in/about)
+**ShredX** is started by [Ashok Dey](https://github.com/ashokdey). You can [read more about him](http://blog.ashokdey.in/about)
