@@ -1,4 +1,4 @@
-# Welcome to SharedX
+# Welcome to SharedX :sailboat:
 
 ShredX is an organisation for promoting **Open Source Development** among developers. It also helps you to come together from different backgrounds and collaborate together to learn something new.
 
@@ -6,7 +6,7 @@ ShredX is an organisation for promoting **Open Source Development** among develo
 
 Meet | Collaborate | Network | Grow
 
-## Why ShredX
+## Why ShredX :beginner:
 
 ShredX is unique because it focuses on the following:
 
@@ -21,18 +21,18 @@ ShredX is unique because it focuses on the following:
   - Code reviews of projects & unit tests <sup>1</sup>
   - CI/CD <sup>2</sup>
 
-## Get Started
+## Get Started :vertical_traffic_light:
 
 - Open an issue with any topic/technology from your bucket list
 - Alternatively you can vote for other open issues as well
 - Get together with people who share same interest
 
-### Gotchas
+### Gotchas :warning:
 
 - Say an issue with REDIS got 10 votes then,
 
   - Team of 2 containing 5 members each will be formed
-  - let the names be life Team A & Team B
+  - Let the names be like Team A & Team B
   - We can have either 2 sessions, one with each team on different days
   - Run in parallel with both the teams in the same day
 
@@ -40,15 +40,17 @@ ShredX is unique because it focuses on the following:
   - Well good idea is to wait till it manage to get people
   - If it's more than 20 days, we will merge it with other such topics
 
-### About the Name
+---
+
+### About the Name :performing_arts:
 
 **X** means it can be anything related to technology. Shred means tiny, everything revolves around this word.
 
 - Your project should be tiny so as to complete it in weekends
-- Weekends are very tiny
+- Weekends are itself very tiny
 - Team size is also very tiny (mininum 2 to maximun of 5)
 
-### Notes
+### Notes :memo:
 
 - <sup>1</sup> : optional
 - <sup>2</sup> : optional
