@@ -55,6 +55,6 @@ ShredX is unique because it focuses on the following:
 - <sup>1</sup> : optional
 - <sup>2</sup> : optional
 
-#### About Me
+---
 
 **ShredX** is started by [Ashok Dey](https://github.com/ashokdey). You can [read more about him](http://blog.ashokdey.in/about)
