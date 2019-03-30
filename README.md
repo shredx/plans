@@ -2,7 +2,7 @@
 
 ShredX is an organisation for promoting **Open Source Development** among developers. It also helps you to come together from different backgrounds and collaborate together to learn something new.
 
-![logo](.github/atom.png)
+![logo](.github/collaboration.png)
 
 Meet | Collaborate | Network | Grow
 
