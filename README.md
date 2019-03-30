@@ -59,4 +59,14 @@ ShredX is unique because it focuses on the following:
 
 ---
 
+### Hosts
+
+- [Ashok Dey](https://github.com/ashokdey) for Noida
+- [Melvin Dsouza](https://github.com/melvinodsa) for Gurgaon
+
+### Contant Us
+
+- You can mail us here: [build@shredx.work](mailto://build@shredx.work)
+- Join our **Slack** here: [Get your invite](https://bit.ly/2CHbXos)
+
 **ShredX** is started by [Ashok Dey](https://github.com/ashokdey). You can [read more about him](http://blog.ashokdey.in/about)
