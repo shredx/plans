@@ -62,7 +62,10 @@ ShredX is unique because it focuses on the following:
 ### Hosts
 
 - [Ashok Dey](https://github.com/ashokdey) for Noida
+- [Priyanka Negi](https://github.com/thejsgirl) for Noida [Primary]
 - [Melvin Dsouza](https://github.com/melvinodsa) for Gurgaon
+- [Rahul Rana](https://github.com/rahulrana95) for Bangalore
+- [Anit Dutta](https://github.com/cruxbreaker) for Bangalore
 
 ### Contant Us
 
