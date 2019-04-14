@@ -66,7 +66,7 @@ ShredX is unique because it focuses on the following:
 
 | Contact       | Email           | Domain        | City    | 
 | ------------- |----------------:| -------------:| -------:|
-| [Melvin Dsouza](https://github.com/melvinodsa) | TBD | Web [Go, React, Angular] | Gurgaon |
+| [Melvin Dsouza](https://github.com/melvinodsa) | melvinodsa@gmail.com | Web [Go, React, Angular] | Gurgaon |
 | [Priyanka Negi](https://github.com/thejsgirl) | prinegi100@gmail.com | Web [MERN] | Noida |
 | [Rahul Rana](https://github.com/rahulrana95) | 3rahul4@gmail.com | Front End [React] | Bangalore |
 | [Anit Dutta](https://github.com/cruxbreaker) | geekankit318@gmail.com | Web [MERN] & ML | Bangalore |
