@@ -32,7 +32,7 @@ ShredX is unique because it focuses on the following:
 
 - Say an issue with REDIS got 10 votes then,
 
-  - Team of 2 containing 5 members each will be formed
+  - Two Teams containing 5 members each will be formed
   - Let the names be like Team A & Team B
   - We can have either 2 sessions, one with each team on different days
   - Run in parallel with both the teams in the same day
