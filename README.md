@@ -17,7 +17,7 @@ ShredX is unique because it focuses on the following:
 - Build small POCs, Small Basic version of complex apps Like facebook, youtube, blog, editor etc
 - Showcase (push) it to ShredX organisation
 - Extra perks
-  - Lean more about GitHub by collaboration like branches, conflicts, pull requests, rebase, writing good commits
+  - Lean more about both Git & GitHub by collaboration like branches, conflicts, pull requests, rebase, writing good commits
   - Code reviews of projects & unit tests <sup>1</sup>
   - CI/CD <sup>2</sup>
 
