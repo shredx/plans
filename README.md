@@ -74,6 +74,6 @@ ShredX is unique because it focuses on the following:
 ### Contant Us
 
 - You can mail us here: [build@shredx.work](mailto://build@shredx.work)
-- Join our **Slack** here: [Get your invite](https://bit.ly/2CHbXos)
+- Join our **Slack** here: [Get your invite](https://join.slack.com/t/shredx/shared_invite/enQtNTk0MzI1MzY3MDc3LWFlYTYwYzI3MjBmNTk1MjY4OWZhMGNiNWY1MDk4Y2VlOWE2MTA5NWU3Mzk3MmI1Y2YwZTEyNTAyZTMwYTIwNGI)
 
 **ShredX** is started by [Ashok Dey](https://github.com/ashokdey). You can [read more about him](http://blog.ashokdey.in/about)
